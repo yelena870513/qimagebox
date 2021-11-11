@@ -1,0 +1,18 @@
+{
+    "type": "component",
+    "props": {
+      "index": {
+        "type": "Integer",
+        "category": "model",
+        "desc": "Use v-model to control visible state"
+      },
+      "items": {
+        "type": "Array",
+        "category": "model",
+        "desc": "Source path to Images",
+        "examples": [
+          "src=\"https://www.orimi.com/pdf-test.jpg\""
+        ]
+      }
+    }
+  }
