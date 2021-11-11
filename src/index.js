@@ -8,7 +8,7 @@
 
 function extendConf(conf) {
   // register our boot file
-  conf.boot.push('~@quasar/quasar-app-extension-qimagebox/src/boot/qimagebox.js')
+  conf.boot.push('~quasar-app-extension-qimagebox/src/boot/qimagebox.js')
   // eslint-disable-next-line quotes
   console.log(` App Extension (qimagebox) Info: 'Adding qimagebox boot reference to your quasar.conf.js'`)
 

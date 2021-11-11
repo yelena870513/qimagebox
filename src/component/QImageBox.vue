@@ -366,6 +366,7 @@ import AutoplayObserver from "../directives/AutoplayObserver";
 import { disableBodyScroll, enableBodyScroll } from 'body-scroll-lock';
 
 export default {
+  name: "QImageBox",
   directives: {
     lazyload: LazyLoadDirective,
     autoplayObserver: AutoplayObserver,

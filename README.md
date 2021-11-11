@@ -1,4 +1,4 @@
-Quasar App Extension q-image-box
+Quasar App Extension qimagebox
 ===
 
 _Be sure to change this readme as appropriate for your app extension._
@@ -21,7 +21,7 @@ Quasar CLI will retrieve it from the NPM registry and install the extension to y
 
 # Uninstall
 ```bash
-quasar ext remove q-image-box
+quasar ext remove qimagebox
 ```
 
 # Info
@@ -30,5 +30,10 @@ quasar ext remove q-image-box
 # Other Info
 > Add other information that's not as important to know
 
-# Donate
-If you appreciate the work that went into this App Extension, please consider [donating to Quasar](https://donate.quasar.dev).
+# Base from 
+If you appreciate the work that went into this App Extension, please consider [Vue CoolLightBox](https://vue-cool-lightbox.lucaspulliese.com/).
+
+# Donate 
+If you appreciate the work that went into this App Extension, please consider [Vue CoolLightBox](http://paypal.me/lucaspdonations).
+
+

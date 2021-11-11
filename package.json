@@ -1,5 +1,5 @@
 {
-  "name": "quasar-app-extension-q-image-box",
+  "name": "quasar-app-extension-qimagebox",
   "version": "0.1.1",
   "description": "Image Light Box",
   "author": "yelena<yelena870813@gmail.com>",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yelena870513/quasar-image-box"
+    "url": "https://github.com/yelena870513/qimagebox"
   },
-  "bugs": "https://github.com/yelena870513/quasar-image-box/issues",
-  "homepage": "https://github.com/yelena870513/quasar-image-box",
+  "bugs": "https://github.com/yelena870513/qimagebox/issues",
+  "homepage": "https://github.com/yelena870513/qimagebox",
   "dependencies": {
     "body-scroll-lock": "3.1.5",
     "plyr": "3.6.7"
