@@ -19,7 +19,7 @@ export default {
         const autoplay = el.dataset.autoplay; 
         if(autoplay) {
           if(tagName === 'VIDEO') {
-            el.muted = true;
+            el.muted = false;
             el.autoplay = true;
 
             return;
